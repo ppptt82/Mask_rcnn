@@ -1,0 +1,110 @@
+2024-09-12 08:30:20 - INFO - Epoch [82], train_Loss_average: 2.2147, proco_loss_average: 0.5076, val_Loss_average: 1.9881, epoch_Time: 22.72s, porco_time: 9.75s
+2024-09-12 08:30:42 - INFO - Epoch [83], train_Loss_average: 1.9334, proco_loss_average: 0.3907, val_Loss_average: 2.0008, epoch_Time: 21.50s, porco_time: 9.81s
+2024-09-12 08:31:03 - INFO - Epoch [84], train_Loss_average: 1.8043, proco_loss_average: 0.3572, val_Loss_average: 1.8633, epoch_Time: 21.59s, porco_time: 9.86s
+2024-09-12 08:31:25 - INFO - Epoch [85], train_Loss_average: 1.9273, proco_loss_average: 0.4289, val_Loss_average: 2.0740, epoch_Time: 21.44s, porco_time: 9.82s
+2024-09-12 08:31:46 - INFO - Epoch [86], train_Loss_average: 1.7051, proco_loss_average: 0.3324, val_Loss_average: 1.6831, epoch_Time: 21.69s, porco_time: 9.87s
+2024-09-12 08:32:08 - INFO - Epoch [87], train_Loss_average: 1.6787, proco_loss_average: 0.3396, val_Loss_average: 1.7664, epoch_Time: 21.50s, porco_time: 9.95s
+2024-09-12 08:32:30 - INFO - Epoch [88], train_Loss_average: 1.6527, proco_loss_average: 0.3489, val_Loss_average: 2.1177, epoch_Time: 21.68s, porco_time: 9.88s
+2024-09-12 08:32:52 - INFO - Epoch [89], train_Loss_average: 1.5661, proco_loss_average: 0.2827, val_Loss_average: 1.7368, epoch_Time: 22.01s, porco_time: 9.88s
+2024-09-12 08:33:13 - INFO - Epoch [90], train_Loss_average: 1.4766, proco_loss_average: 0.2459, val_Loss_average: 1.8268, epoch_Time: 21.63s, porco_time: 9.90s
+2024-09-12 08:33:34 - INFO - Epoch [91], train_Loss_average: 1.4696, proco_loss_average: 0.2742, val_Loss_average: 1.7635, epoch_Time: 21.19s, porco_time: 9.86s
+2024-09-12 08:33:35 - INFO - checkpoint mask_rcnn_epoch_91.pth has saved
+2024-09-12 08:33:56 - INFO - Epoch [92], train_Loss_average: 1.7715, proco_loss_average: 0.4062, val_Loss_average: 2.3194, epoch_Time: 21.10s, porco_time: 9.81s
+2024-09-12 08:34:18 - INFO - Epoch [93], train_Loss_average: 1.5183, proco_loss_average: 0.2782, val_Loss_average: 1.8309, epoch_Time: 21.59s, porco_time: 9.94s
+2024-09-12 08:34:40 - INFO - Epoch [94], train_Loss_average: 1.3466, proco_loss_average: 0.2145, val_Loss_average: 1.6619, epoch_Time: 21.89s, porco_time: 9.91s
+2024-09-12 08:35:02 - INFO - Epoch [95], train_Loss_average: 1.4044, proco_loss_average: 0.2623, val_Loss_average: 1.6884, epoch_Time: 22.01s, porco_time: 9.90s
+2024-09-12 08:35:23 - INFO - Epoch [96], train_Loss_average: 1.3837, proco_loss_average: 0.2604, val_Loss_average: 1.5681, epoch_Time: 21.65s, porco_time: 9.84s
+2024-09-12 08:35:45 - INFO - Epoch [97], train_Loss_average: 1.3637, proco_loss_average: 0.2413, val_Loss_average: 1.7355, epoch_Time: 21.96s, porco_time: 9.83s
+2024-09-12 08:36:07 - INFO - Epoch [98], train_Loss_average: 1.3032, proco_loss_average: 0.2184, val_Loss_average: 1.7078, epoch_Time: 21.89s, porco_time: 9.90s
+2024-09-12 08:36:29 - INFO - Epoch [99], train_Loss_average: 1.2866, proco_loss_average: 0.2175, val_Loss_average: 1.7608, epoch_Time: 21.50s, porco_time: 9.88s
+2024-09-12 08:36:50 - INFO - Epoch [100], train_Loss_average: 1.1993, proco_loss_average: 0.1903, val_Loss_average: 1.5899, epoch_Time: 21.38s, porco_time: 9.82s
+2024-09-12 08:37:12 - INFO - Epoch [101], train_Loss_average: 1.1614, proco_loss_average: 0.1806, val_Loss_average: 1.6479, epoch_Time: 21.44s, porco_time: 9.87s
+2024-09-12 08:37:12 - INFO - checkpoint mask_rcnn_epoch_101.pth has saved
+2024-09-12 08:37:34 - INFO - Epoch [102], train_Loss_average: 1.1344, proco_loss_average: 0.1760, val_Loss_average: 1.8772, epoch_Time: 21.42s, porco_time: 9.76s
+2024-09-12 08:37:55 - INFO - Epoch [103], train_Loss_average: 1.1906, proco_loss_average: 0.1949, val_Loss_average: 1.7173, epoch_Time: 21.74s, porco_time: 9.82s
+2024-09-12 08:38:17 - INFO - Epoch [104], train_Loss_average: 1.1456, proco_loss_average: 0.1768, val_Loss_average: 1.5988, epoch_Time: 21.67s, porco_time: 9.80s
+2024-09-12 08:38:39 - INFO - Epoch [105], train_Loss_average: 1.0684, proco_loss_average: 0.1556, val_Loss_average: 1.5286, epoch_Time: 22.08s, porco_time: 9.93s
+2024-09-12 08:39:01 - INFO - Epoch [106], train_Loss_average: 1.0749, proco_loss_average: 0.1691, val_Loss_average: 1.6254, epoch_Time: 21.63s, porco_time: 9.90s
+2024-09-12 08:39:22 - INFO - Epoch [107], train_Loss_average: 1.0491, proco_loss_average: 0.1569, val_Loss_average: 1.6684, epoch_Time: 21.61s, porco_time: 9.93s
+2024-09-12 08:39:44 - INFO - Epoch [108], train_Loss_average: 1.0862, proco_loss_average: 0.1625, val_Loss_average: 1.5380, epoch_Time: 21.71s, porco_time: 9.93s
+2024-09-12 08:40:06 - INFO - Epoch [109], train_Loss_average: 0.9997, proco_loss_average: 0.1379, val_Loss_average: 1.5477, epoch_Time: 21.49s, porco_time: 9.91s
+2024-09-12 08:40:27 - INFO - Epoch [110], train_Loss_average: 0.9874, proco_loss_average: 0.1389, val_Loss_average: 1.5235, epoch_Time: 21.65s, porco_time: 9.94s
+2024-09-12 08:40:49 - INFO - Epoch [111], train_Loss_average: 1.0234, proco_loss_average: 0.1517, val_Loss_average: 1.6762, epoch_Time: 21.33s, porco_time: 9.92s
+2024-09-12 08:40:49 - INFO - checkpoint mask_rcnn_epoch_111.pth has saved
+2024-09-12 08:41:12 - INFO - Epoch [112], train_Loss_average: 0.9695, proco_loss_average: 0.1385, val_Loss_average: 1.5391, epoch_Time: 22.52s, porco_time: 9.92s
+2024-09-12 08:41:34 - INFO - Epoch [113], train_Loss_average: 0.9436, proco_loss_average: 0.1282, val_Loss_average: 1.5653, epoch_Time: 22.42s, porco_time: 9.94s
+2024-09-12 08:41:57 - INFO - Epoch [114], train_Loss_average: 0.9159, proco_loss_average: 0.1254, val_Loss_average: 1.6521, epoch_Time: 22.29s, porco_time: 9.95s
+2024-09-12 08:42:18 - INFO - Epoch [115], train_Loss_average: 0.9139, proco_loss_average: 0.1220, val_Loss_average: 1.5836, epoch_Time: 21.58s, porco_time: 9.89s
+2024-09-12 08:42:40 - INFO - Epoch [116], train_Loss_average: 0.9312, proco_loss_average: 0.1295, val_Loss_average: 1.5669, epoch_Time: 22.28s, porco_time: 9.95s
+2024-09-12 08:43:02 - INFO - Epoch [117], train_Loss_average: 0.9131, proco_loss_average: 0.1335, val_Loss_average: 1.5551, epoch_Time: 21.19s, porco_time: 9.92s
+2024-09-12 08:43:23 - INFO - Epoch [118], train_Loss_average: 0.8960, proco_loss_average: 0.1194, val_Loss_average: 1.6379, epoch_Time: 21.67s, porco_time: 9.98s
+2024-09-12 08:43:45 - INFO - Epoch [119], train_Loss_average: 0.9088, proco_loss_average: 0.1314, val_Loss_average: 1.6746, epoch_Time: 21.64s, porco_time: 9.92s
+2024-09-12 08:44:07 - INFO - Epoch [120], train_Loss_average: 1.0192, proco_loss_average: 0.1672, val_Loss_average: 1.5910, epoch_Time: 21.64s, porco_time: 9.95s
+2024-09-12 08:44:28 - INFO - Epoch [121], train_Loss_average: 0.9588, proco_loss_average: 0.1503, val_Loss_average: 1.6578, epoch_Time: 21.32s, porco_time: 9.94s
+2024-09-12 08:44:29 - INFO - checkpoint mask_rcnn_epoch_121.pth has saved
+2024-09-12 08:44:51 - INFO - Epoch [122], train_Loss_average: 0.9156, proco_loss_average: 0.1317, val_Loss_average: 1.5884, epoch_Time: 22.20s, porco_time: 9.89s
+2024-09-12 08:45:13 - INFO - Epoch [123], train_Loss_average: 0.8669, proco_loss_average: 0.1147, val_Loss_average: 1.5298, epoch_Time: 22.09s, porco_time: 9.91s
+2024-09-12 08:45:35 - INFO - Epoch [124], train_Loss_average: 0.8004, proco_loss_average: 0.1046, val_Loss_average: 1.5539, epoch_Time: 21.67s, porco_time: 9.84s
+2024-09-12 08:45:56 - INFO - Epoch [125], train_Loss_average: 0.8083, proco_loss_average: 0.1120, val_Loss_average: 1.6036, epoch_Time: 21.61s, porco_time: 9.87s
+2024-09-12 08:46:18 - INFO - Epoch [126], train_Loss_average: 0.9251, proco_loss_average: 0.1620, val_Loss_average: 1.6305, epoch_Time: 21.60s, porco_time: 9.87s
+2024-09-12 08:46:40 - INFO - Epoch [127], train_Loss_average: 0.9222, proco_loss_average: 0.1486, val_Loss_average: 1.5779, epoch_Time: 22.37s, porco_time: 9.90s
+2024-09-12 08:47:02 - INFO - Epoch [128], train_Loss_average: 0.8145, proco_loss_average: 0.1097, val_Loss_average: 1.4814, epoch_Time: 21.88s, porco_time: 9.85s
+2024-09-12 08:47:24 - INFO - Epoch [129], train_Loss_average: 0.7905, proco_loss_average: 0.1034, val_Loss_average: 1.6261, epoch_Time: 21.71s, porco_time: 9.84s
+2024-09-12 08:47:46 - INFO - Epoch [130], train_Loss_average: 0.8019, proco_loss_average: 0.1130, val_Loss_average: 1.5545, epoch_Time: 22.02s, porco_time: 9.83s
+2024-09-12 08:48:08 - INFO - Epoch [131], train_Loss_average: 0.7920, proco_loss_average: 0.1053, val_Loss_average: 1.5129, epoch_Time: 22.01s, porco_time: 9.94s
+2024-09-12 08:48:08 - INFO - checkpoint mask_rcnn_epoch_131.pth has saved
+2024-09-12 08:48:30 - INFO - Epoch [132], train_Loss_average: 0.8433, proco_loss_average: 0.1287, val_Loss_average: 1.4901, epoch_Time: 21.63s, porco_time: 9.87s
+2024-09-12 08:48:51 - INFO - Epoch [133], train_Loss_average: 0.7588, proco_loss_average: 0.1018, val_Loss_average: 1.5145, epoch_Time: 21.33s, porco_time: 9.90s
+2024-09-12 08:49:13 - INFO - Epoch [134], train_Loss_average: 0.7914, proco_loss_average: 0.1095, val_Loss_average: 1.6031, epoch_Time: 22.00s, porco_time: 9.86s
+2024-09-12 08:49:35 - INFO - Epoch [135], train_Loss_average: 0.7560, proco_loss_average: 0.1067, val_Loss_average: 1.5782, epoch_Time: 21.92s, porco_time: 9.90s
+2024-09-12 08:49:57 - INFO - Epoch [136], train_Loss_average: 0.7337, proco_loss_average: 0.1002, val_Loss_average: 1.5805, epoch_Time: 21.39s, porco_time: 9.85s
+2024-09-12 08:50:19 - INFO - Epoch [137], train_Loss_average: 0.7057, proco_loss_average: 0.0910, val_Loss_average: 1.5333, epoch_Time: 21.94s, porco_time: 9.94s
+2024-09-12 08:50:41 - INFO - Epoch [138], train_Loss_average: 0.7105, proco_loss_average: 0.0903, val_Loss_average: 1.4963, epoch_Time: 21.92s, porco_time: 9.84s
+2024-09-12 08:51:02 - INFO - Epoch [139], train_Loss_average: 0.7126, proco_loss_average: 0.0906, val_Loss_average: 1.5445, epoch_Time: 21.29s, porco_time: 9.84s
+2024-09-12 08:51:23 - INFO - Epoch [140], train_Loss_average: 0.6943, proco_loss_average: 0.0877, val_Loss_average: 1.6420, epoch_Time: 21.31s, porco_time: 9.83s
+2024-09-12 08:51:45 - INFO - Epoch [141], train_Loss_average: 0.7554, proco_loss_average: 0.0973, val_Loss_average: 1.4841, epoch_Time: 21.23s, porco_time: 9.85s
+2024-09-12 08:51:45 - INFO - checkpoint mask_rcnn_epoch_141.pth has saved
+2024-09-12 08:52:07 - INFO - Epoch [142], train_Loss_average: 0.7153, proco_loss_average: 0.0893, val_Loss_average: 1.6125, epoch_Time: 21.45s, porco_time: 9.84s
+2024-09-12 08:52:28 - INFO - Epoch [143], train_Loss_average: 0.7685, proco_loss_average: 0.1047, val_Loss_average: 1.6058, epoch_Time: 21.42s, porco_time: 9.84s
+2024-09-12 08:52:50 - INFO - Epoch [144], train_Loss_average: 0.7520, proco_loss_average: 0.0955, val_Loss_average: 1.5128, epoch_Time: 21.58s, porco_time: 9.87s
+2024-09-12 08:53:11 - INFO - Epoch [145], train_Loss_average: 0.6747, proco_loss_average: 0.0825, val_Loss_average: 1.4397, epoch_Time: 21.54s, porco_time: 9.89s
+2024-09-12 08:53:33 - INFO - Epoch [146], train_Loss_average: 0.6692, proco_loss_average: 0.0825, val_Loss_average: 1.5327, epoch_Time: 21.43s, porco_time: 9.84s
+2024-09-12 08:53:54 - INFO - Epoch [147], train_Loss_average: 0.6863, proco_loss_average: 0.0880, val_Loss_average: 1.4395, epoch_Time: 21.66s, porco_time: 9.92s
+2024-09-12 08:54:16 - INFO - Epoch [148], train_Loss_average: 0.6661, proco_loss_average: 0.0836, val_Loss_average: 1.4892, epoch_Time: 21.67s, porco_time: 9.87s
+2024-09-12 08:54:38 - INFO - Epoch [149], train_Loss_average: 0.6282, proco_loss_average: 0.0760, val_Loss_average: 1.5738, epoch_Time: 21.99s, porco_time: 9.96s
+2024-09-12 08:54:59 - INFO - Epoch [150], train_Loss_average: 0.6587, proco_loss_average: 0.0761, val_Loss_average: 1.4807, epoch_Time: 21.48s, porco_time: 9.88s
+2024-09-12 08:55:21 - INFO - Epoch [151], train_Loss_average: 0.6717, proco_loss_average: 0.0842, val_Loss_average: 1.5656, epoch_Time: 21.37s, porco_time: 9.82s
+2024-09-12 08:55:21 - INFO - checkpoint mask_rcnn_epoch_151.pth has saved
+2024-09-12 08:55:43 - INFO - Epoch [152], train_Loss_average: 0.6384, proco_loss_average: 0.0809, val_Loss_average: 1.5347, epoch_Time: 21.54s, porco_time: 9.94s
+2024-09-12 08:56:05 - INFO - Epoch [153], train_Loss_average: 0.6269, proco_loss_average: 0.0731, val_Loss_average: 1.4459, epoch_Time: 21.85s, porco_time: 9.91s
+2024-09-12 08:56:27 - INFO - Epoch [154], train_Loss_average: 0.6163, proco_loss_average: 0.0721, val_Loss_average: 1.6687, epoch_Time: 22.55s, porco_time: 9.95s
+2024-09-12 08:56:49 - INFO - Epoch [155], train_Loss_average: 0.6008, proco_loss_average: 0.0719, val_Loss_average: 1.5573, epoch_Time: 21.69s, porco_time: 9.85s
+2024-09-12 08:57:11 - INFO - Epoch [156], train_Loss_average: 0.6321, proco_loss_average: 0.0796, val_Loss_average: 1.6675, epoch_Time: 21.41s, porco_time: 9.89s
+2024-09-12 08:57:33 - INFO - Epoch [157], train_Loss_average: 0.6510, proco_loss_average: 0.0776, val_Loss_average: 1.7130, epoch_Time: 21.94s, porco_time: 9.89s
+2024-09-12 08:57:54 - INFO - Epoch [158], train_Loss_average: 0.6493, proco_loss_average: 0.0882, val_Loss_average: 1.4921, epoch_Time: 21.86s, porco_time: 9.88s
+2024-09-12 08:58:16 - INFO - Epoch [159], train_Loss_average: 0.5849, proco_loss_average: 0.0696, val_Loss_average: 1.5715, epoch_Time: 21.80s, porco_time: 9.91s
+2024-09-12 08:58:39 - INFO - Epoch [160], train_Loss_average: 0.5802, proco_loss_average: 0.0683, val_Loss_average: 1.7819, epoch_Time: 22.33s, porco_time: 9.85s
+2024-09-12 08:59:01 - INFO - Epoch [161], train_Loss_average: 0.6227, proco_loss_average: 0.0796, val_Loss_average: 1.5482, epoch_Time: 22.43s, porco_time: 9.90s
+2024-09-12 08:59:02 - INFO - checkpoint mask_rcnn_epoch_161.pth has saved
+2024-09-12 08:59:23 - INFO - Epoch [162], train_Loss_average: 0.5893, proco_loss_average: 0.0703, val_Loss_average: 1.4969, epoch_Time: 21.46s, porco_time: 9.85s
+2024-09-12 08:59:45 - INFO - Epoch [163], train_Loss_average: 0.5674, proco_loss_average: 0.0654, val_Loss_average: 1.6981, epoch_Time: 21.62s, porco_time: 9.78s
+2024-09-12 09:00:06 - INFO - Epoch [164], train_Loss_average: 0.5593, proco_loss_average: 0.0692, val_Loss_average: 1.6503, epoch_Time: 21.34s, porco_time: 9.81s
+2024-09-12 09:00:28 - INFO - Epoch [165], train_Loss_average: 0.5727, proco_loss_average: 0.0683, val_Loss_average: 1.5239, epoch_Time: 22.00s, porco_time: 9.83s
+2024-09-12 09:00:50 - INFO - Epoch [166], train_Loss_average: 0.5679, proco_loss_average: 0.0669, val_Loss_average: 1.5666, epoch_Time: 21.58s, porco_time: 9.84s
+2024-09-12 09:01:11 - INFO - Epoch [167], train_Loss_average: 0.5857, proco_loss_average: 0.0742, val_Loss_average: 1.7615, epoch_Time: 21.65s, porco_time: 9.89s
+2024-09-12 09:01:33 - INFO - Epoch [168], train_Loss_average: 0.6008, proco_loss_average: 0.0761, val_Loss_average: 1.6516, epoch_Time: 21.60s, porco_time: 9.85s
+2024-09-12 09:01:55 - INFO - Epoch [169], train_Loss_average: 0.5874, proco_loss_average: 0.0692, val_Loss_average: 1.5805, epoch_Time: 21.75s, porco_time: 9.85s
+2024-09-12 09:02:17 - INFO - Epoch [170], train_Loss_average: 0.5429, proco_loss_average: 0.0641, val_Loss_average: 1.5539, epoch_Time: 22.39s, porco_time: 9.92s
+2024-09-12 09:02:38 - INFO - Epoch [171], train_Loss_average: 0.5684, proco_loss_average: 0.0690, val_Loss_average: 1.4901, epoch_Time: 21.30s, porco_time: 9.83s
+2024-09-12 09:02:39 - INFO - checkpoint mask_rcnn_epoch_171.pth has saved
+2024-09-12 09:03:01 - INFO - Epoch [172], train_Loss_average: 0.5639, proco_loss_average: 0.0700, val_Loss_average: 1.5548, epoch_Time: 21.64s, porco_time: 9.88s
+2024-09-12 09:03:22 - INFO - Epoch [173], train_Loss_average: 0.5646, proco_loss_average: 0.0686, val_Loss_average: 1.5283, epoch_Time: 21.38s, porco_time: 9.92s
+2024-09-12 09:03:44 - INFO - Epoch [174], train_Loss_average: 0.5968, proco_loss_average: 0.0733, val_Loss_average: 1.5833, epoch_Time: 22.24s, porco_time: 9.90s
+2024-09-12 09:04:06 - INFO - Epoch [175], train_Loss_average: 0.5873, proco_loss_average: 0.0776, val_Loss_average: 1.6007, epoch_Time: 21.35s, porco_time: 9.82s
+2024-09-12 09:04:27 - INFO - Epoch [176], train_Loss_average: 0.5744, proco_loss_average: 0.0690, val_Loss_average: 1.5775, epoch_Time: 21.67s, porco_time: 9.81s
+2024-09-12 09:04:49 - INFO - Epoch [177], train_Loss_average: 0.5344, proco_loss_average: 0.0651, val_Loss_average: 1.5550, epoch_Time: 21.75s, porco_time: 9.90s
+2024-09-12 09:05:11 - INFO - Epoch [178], train_Loss_average: 0.5328, proco_loss_average: 0.0637, val_Loss_average: 1.5717, epoch_Time: 21.79s, porco_time: 9.93s
+2024-09-12 09:05:32 - INFO - Epoch [179], train_Loss_average: 0.5458, proco_loss_average: 0.0640, val_Loss_average: 1.5757, epoch_Time: 21.35s, porco_time: 9.87s
+2024-09-12 09:05:54 - INFO - Epoch [180], train_Loss_average: 0.5893, proco_loss_average: 0.0725, val_Loss_average: 1.5449, epoch_Time: 21.76s, porco_time: 9.85s
+2024-09-12 09:06:16 - INFO - Epoch [181], train_Loss_average: 0.5918, proco_loss_average: 0.0733, val_Loss_average: 1.6214, epoch_Time: 21.38s, porco_time: 9.86s
+2024-09-12 09:06:16 - INFO - checkpoint mask_rcnn_epoch_181.pth has saved
