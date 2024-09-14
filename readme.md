@@ -25,10 +25,11 @@ And I wish it can test on more international and famous datasets, and get a good
 - About num_class, you don't need to annotate the background class, but it still counts one class. It means if you have 5 foreground class, you should input num_class=6.
 
 
-
 ## Have done
 
 - [09/06] train success! this afternoon i has been tortured by the pytorch and cuda version, it cost me 2 hours.
+- [09/12] train with model_proco, found that it cost twice time per epoch, but it does have a better performance in tail calss.
+
 
 ## ToDO
  
@@ -36,5 +37,5 @@ And I wish it can test on more international and famous datasets, and get a good
 - 训练完毕后，导入指定的模型参数文件，修改model输出，使之在推理时输出bboxes、labels、masks，并设置输入方式（图像文件夹、单张图像等），输出为绘制好的可视化结果，并将bboxes、labels、masks保存至对应的json文件
 - 修改lr、batch_size，比较不同的参数对结果的影响
 - 数据增强。目前只有100张原始图像，计划增加到500张？（待定）
-- loss修改1：添加proco组件
 - loss修改2：数据集具有一定的few-shot特征，例如，当模型输出为三角形，但ground_truth中并未给出该实例的标注，通过分析模型输出的mask形状，给予一定的奖励。
+- 修改mask分支输出格式--由像素级掩码输出转换为多边形顶点输出（根据预测的label结果来决定输出的顶点个数）
